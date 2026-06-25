@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+	<Product>
+		<pid>100</pid>
+		<name>Samsung Refrigerator</name>
+		<price>20000</price>
+		<dom>03-05-2020</dom>
+	</Product>
+	<Product>
+		<pid>101</pid>
+		<name>iPhone 7</name>
+		<price>90000</price>
+		<dom>04-02-2000</dom>
+	</Product>
+	<Product>
+		<pid>102</pid>
+		<name>LG Washing Machine</name>
+		<price>35000</price>
+		<dom>12-11-2018</dom>
+	</Product>
+	<Product>
+		<pid>103</pid>
+		<name>Dell Laptop</name>
+		<price>75000</price>
+		<dom>15-08-2021</dom>
+	</Product>
+	<Product>
+		<pid>104</pid>
+		<name>Sony Headphones</name>
+		<price>5000</price>
+		<dom>20-06-2019</dom>
+	</Product>
+	<Product>
+		<pid>105</pid>
+		<name>Apple Watch</name>
+		<price>25000</price>
+		<dom>10-01-2022</dom>
+	</Product>
+	<Product>
+		<pid>106</pid>
+		<name>HP Printer</name>
+		<price>12000</price>
+		<dom>05-03-2020</dom>
+	</Product>
+	<Product>
+		<pid>107</pid>
+		<name>Google Pixel</name>
+		<price>65000</price>
+		<dom>18-09-2021</dom>
+	</Product>
+	<Product>
+		<pid>108</pid>
+		<name>Asus Monitor</name>
+		<price>15000</price>
+		<dom>25-12-2019</dom>
+	</Product>
+	<Product>
+		<pid>109</pid>
+		<name>Amazon Echo</name>
+		<price>8000</price>
+		<dom>30-07-2020</dom>
+	</Product>
+</Products>
